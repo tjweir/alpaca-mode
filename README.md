@@ -1,6 +1,6 @@
 # alpaca-mode
 Emacs Major mode for alpaca-lang
 
-Todo:
-# Comment handling
-# Indentation
+# Todo:
+- Comment handling
+- Indentation
